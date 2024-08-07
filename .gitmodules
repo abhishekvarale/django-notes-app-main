@@ -1,3 +1,6 @@
 [submodule "python-scanning"]
 	path = python-scanning
 	url = https://github.com/abhishekvarale/python-scanning.git
+[submodule "api/notesapp"]
+	path = api/notesapp
+	url = https://github.com/abhishekvarale/django-notes-app-main
