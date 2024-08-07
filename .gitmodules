@@ -1,0 +1,3 @@
+[submodule "python-scanning"]
+	path = python-scanning
+	url = https://github.com/abhishekvarale/python-scanning.git
